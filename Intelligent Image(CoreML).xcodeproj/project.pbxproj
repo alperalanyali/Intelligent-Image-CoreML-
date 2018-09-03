@@ -12,6 +12,7 @@
 		4E74A6DA213D3F1500EF5FED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E74A6D8213D3F1500EF5FED /* Main.storyboard */; };
 		4E74A6DC213D3F3400EF5FED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E74A6DB213D3F3400EF5FED /* Assets.xcassets */; };
 		4E74A6DF213D3F3400EF5FED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E74A6DD213D3F3400EF5FED /* LaunchScreen.storyboard */; };
+		4E74A6EB213D48B400EF5FED /* GoogLeNetPlaces.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4E74A6EA213D48B400EF5FED /* GoogLeNetPlaces.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4E74A6DB213D3F3400EF5FED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E74A6DE213D3F3400EF5FED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E74A6E0213D3F3400EF5FED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E74A6EA213D48B400EF5FED /* GoogLeNetPlaces.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = GoogLeNetPlaces.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				4E74A6D6213D3F1500EF5FED /* ViewController.swift */,
 				4E74A6D8213D3F1500EF5FED /* Main.storyboard */,
 				4E74A6DB213D3F3400EF5FED /* Assets.xcassets */,
+				4E74A6EA213D48B400EF5FED /* GoogLeNetPlaces.mlmodel */,
 				4E74A6DD213D3F3400EF5FED /* LaunchScreen.storyboard */,
 				4E74A6E0213D3F3400EF5FED /* Info.plist */,
 			);
@@ -137,6 +140,7 @@
 			files = (
 				4E74A6D7213D3F1500EF5FED /* ViewController.swift in Sources */,
 				4E74A6D5213D3F1500EF5FED /* AppDelegate.swift in Sources */,
+				4E74A6EB213D48B400EF5FED /* GoogLeNetPlaces.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
